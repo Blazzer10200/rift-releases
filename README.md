@@ -6,8 +6,8 @@
 
 Point Rift at a folder and chat with Claude — it reads, searches, edits, and runs git in place, all on your machine. Built on Tauri 2 + SvelteKit + Rust.
 
-[![Latest release](https://img.shields.io/github/v/release/Blazzer10200/rift-releases?label=latest&style=flat-square&color=6d28d9)](https://github.com/Blazzer10200/rift-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Blazzer10200/rift-releases/total?style=flat-square&color=2563eb)](https://github.com/Blazzer10200/rift-releases/releases)
+[![Latest release](https://img.shields.io/github/v/release/Blazzer10200/rift?label=latest&style=flat-square&color=6d28d9)](https://github.com/Blazzer10200/rift/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Blazzer10200/rift/total?style=flat-square&color=2563eb)](https://github.com/Blazzer10200/rift/releases)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078d6?style=flat-square)
 ![License](https://img.shields.io/badge/license-Proprietary-555?style=flat-square)
 
@@ -17,7 +17,7 @@ Point Rift at a folder and chat with Claude — it reads, searches, edits, and r
 
 ## Download
 
-Grab the latest **`Rift-win-Setup.exe`** from the [**latest release**](https://github.com/Blazzer10200/rift-releases/releases/latest).
+Grab the latest **`Rift-win-Setup.exe`** from the [**latest release**](https://github.com/Blazzer10200/rift/releases/latest).
 
 - **Per-user install** — no admin required.
 - **Install once** — Rift self-updates from here on (Velopack).
